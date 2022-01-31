@@ -1,0 +1,30 @@
+.top {
+	background-color: lightblue;
+	height: 50px;
+	width: 100%;
+	margin-bottom: 40px;
+	
+}
+
+.One {
+	background-color: lightblue;
+	height: 200px;
+	width: 100%;
+    margin-bottom: 40px;
+	}
+
+.container div {
+	background-color: lightblue;
+	display: inline-flex;
+	width: 30%;
+	height: 250px;
+	margin: 20px;
+
+}
+
+.footer {
+	background-color: lightblue;
+	height: 70px;
+	width: 100%;
+    margin-top: 40px;
+}
